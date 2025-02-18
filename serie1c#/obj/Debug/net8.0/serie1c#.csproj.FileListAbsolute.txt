@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Desktop\serie1c#\serie1c#\bin\Debug\net8.0\serie1c#.exe
+C:\Users\DELL\OneDrive\Desktop\serie1c#\serie1c#\bin\Debug\net8.0\serie1c#.deps.json
+C:\Users\DELL\OneDrive\Desktop\serie1c#\serie1c#\bin\Debug\net8.0\serie1c#.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\serie1c#\serie1c#\bin\Debug\net8.0\serie1c#.dll
+C:\Users\DELL\OneDrive\Desktop\serie1c#\serie1c#\bin\Debug\net8.0\serie1c#.pdb
+C:\Users\DELL\OneDrive\Desktop\serie1c#\serie1c#\obj\Debug\net8.0\serie1c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\serie1c#\serie1c#\obj\Debug\net8.0\serie1c#.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\serie1c#\serie1c#\obj\Debug\net8.0\serie1c#.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\serie1c#\serie1c#\obj\Debug\net8.0\serie1c#.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\serie1c#\serie1c#\obj\Debug\net8.0\serie1c#.sourcelink.json
+C:\Users\DELL\OneDrive\Desktop\serie1c#\serie1c#\obj\Debug\net8.0\serie1c#.dll
+C:\Users\DELL\OneDrive\Desktop\serie1c#\serie1c#\obj\Debug\net8.0\refint\serie1c#.dll
+C:\Users\DELL\OneDrive\Desktop\serie1c#\serie1c#\obj\Debug\net8.0\serie1c#.pdb
+C:\Users\DELL\OneDrive\Desktop\serie1c#\serie1c#\obj\Debug\net8.0\serie1c#.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\serie1c#\serie1c#\obj\Debug\net8.0\ref\serie1c#.dll
