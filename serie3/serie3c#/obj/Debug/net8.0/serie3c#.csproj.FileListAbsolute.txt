@@ -1,0 +1,5 @@
+C:\Users\DELL\OneDrive\Desktop\serie3c#\serie3c#\obj\Debug\net8.0\serie3c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\serie3c#\serie3c#\obj\Debug\net8.0\serie3c#.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\serie3c#\serie3c#\obj\Debug\net8.0\serie3c#.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\serie3c#\serie3c#\obj\Debug\net8.0\serie3c#.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\serie3c#\serie3c#\obj\Debug\net8.0\serie3c#.sourcelink.json
